@@ -1,0 +1,16 @@
+dist/
+dist-client/
+dist-server/
+node_modules/
+logs/
+uploads/
+attachments/
+db.sqlite
+yarn*.*
+package-lock.json
+.DS_Store
+.vscode
+platforms
+plugins
+
+www/js/index.js*
